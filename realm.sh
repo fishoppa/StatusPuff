@@ -7,7 +7,7 @@
 set -euo pipefail
 
 # ===================== 可配置项 =====================
-CONFIG_URL="https://www.paofu.cloud/download/shell/config.toml"
+CONFIG_URL="https://raw.githubusercontent.com/fishoppa/StatusPuff/refs/heads/master/config.toml"
 REALM_BIN="/usr/local/bin/realm"
 CONFIG_DIR="/etc/realm"
 CONFIG_FILE="${CONFIG_DIR}/config.toml"
